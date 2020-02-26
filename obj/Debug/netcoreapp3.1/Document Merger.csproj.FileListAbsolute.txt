@@ -1,0 +1,11 @@
+C:\Users\PutYoJammiesOn\Desktop\Document Merger\obj\Debug\netcoreapp3.1\Document Merger.csprojAssemblyReference.cache
+C:\Users\PutYoJammiesOn\Desktop\Document Merger\obj\Debug\netcoreapp3.1\Document Merger.AssemblyInfoInputs.cache
+C:\Users\PutYoJammiesOn\Desktop\Document Merger\obj\Debug\netcoreapp3.1\Document Merger.AssemblyInfo.cs
+C:\Users\PutYoJammiesOn\Desktop\Document Merger\bin\Debug\netcoreapp3.1\Document Merger.exe
+C:\Users\PutYoJammiesOn\Desktop\Document Merger\bin\Debug\netcoreapp3.1\Document Merger.deps.json
+C:\Users\PutYoJammiesOn\Desktop\Document Merger\bin\Debug\netcoreapp3.1\Document Merger.runtimeconfig.json
+C:\Users\PutYoJammiesOn\Desktop\Document Merger\bin\Debug\netcoreapp3.1\Document Merger.runtimeconfig.dev.json
+C:\Users\PutYoJammiesOn\Desktop\Document Merger\bin\Debug\netcoreapp3.1\Document Merger.dll
+C:\Users\PutYoJammiesOn\Desktop\Document Merger\bin\Debug\netcoreapp3.1\Document Merger.pdb
+C:\Users\PutYoJammiesOn\Desktop\Document Merger\obj\Debug\netcoreapp3.1\Document Merger.dll
+C:\Users\PutYoJammiesOn\Desktop\Document Merger\obj\Debug\netcoreapp3.1\Document Merger.pdb
